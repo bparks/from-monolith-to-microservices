@@ -6,4 +6,4 @@ where I show concrete steps to take a monolithic application and convert it into
 The implementation is with C# (usign an ASP.NET Core MVC application), but the concepts apply
 to any program, even one that isn't a web app.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6OnsQlKBAY4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![From Monolith to Microservices](https://img.youtube.com/vi/6OnsQlKBAY4/0.jpg)](http://www.youtube.com/watch?v=6OnsQlKBAY4)
